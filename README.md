@@ -10,6 +10,7 @@ To reach the goals we had set, we came up with a plan. We wanted to use whatever
 ![image](https://user-images.githubusercontent.com/55704682/164984055-3bcd2440-6085-49d5-9f61-56403830f639.png)  
 This image shows the flow of data in production deployment
 ## Reproducing the results
+Please download the entire folder on to your loacal machine as a zip file.
 ### Source Data for the application
 The original source data file for the project is over 20GB, with over 2.7 million vehicles.Due to the limitation on file size we can upload on Github, we included a sample data file with 10000 vehicles. Data sample file name is 'cars_us_used_10k_sample.csv'
 ### Data Preparation
@@ -17,7 +18,6 @@ Please use the 'Capstone_EDA_v2.ipynb' jupyter notebook file to prepare the data
 This notebook read the source data file and produces a cleaned version of data in CSV file format for EDA and Machine Learning algorithms.
 ### EDA
 The second section of 'Capstone_EDA_v2.ipynb' reads the cleaned version of data produced in part-1 of this notebook, It produces several visualization those are very interesting, and some of the observations can be surprising.
-![image](https://user-images.githubusercontent.com/55704682/164985052-ad6fdcba-adaf-43b1-84e0-879feb30a7e5.png)
 
 ### Machine Learing Models
 The 'Capstone_OLS_RF_XGBoost.ipynb' reads the cleansed dataset produced by part-1 of 'Capstone_EDA_v2.ipynb' notebook. We have implemented OLS (Oridnary Leaset Squares), RandomForestRegressor and XGBoostRegressor models in this file. We have captured various performace metrics such as R2 score, MAE, MAPE and MSE from these models
