@@ -10,7 +10,7 @@ To reach the goals we had set, we came up with a plan. We wanted to use whatever
 ![image](https://user-images.githubusercontent.com/55704682/164984055-3bcd2440-6085-49d5-9f61-56403830f639.png)  
 This image shows the flow of data in production deployment
 ## Reproducing the results
-Please download the entire folder on to your loacal machine as a zip file.
+Please download the entire folder as a zip file and uncompress the zip file on local computer, this project uses jupyter notebooks for data preparation, EDA and Machine Learning models.
 ### Step-1: Source Data for the application
 The original source data file for the project is over 20GB, with over 2.7 million vehicles.Due to the limitation on file size we can upload on Github, we included a sample data file with 10000 vehicles. Data sample file name is 'cars_us_used_10k_sample.csv'
 ### Step-2: Data Preparation
