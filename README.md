@@ -16,12 +16,17 @@ Please download the entire folder as a zip file and uncompress the zip file on y
 ### Step-1: Source Data for the application
 The original source data file for the project is over 20GB, with over 2.7 million vehicles.Due to the limitation on file size we can upload on Github, we included a sample data file with 10000 vehicles. Data sample file name is 'cars_us_used_10k_sample.csv'
 ### Step-2: Data Preparation, Run this step in Jupyter Notebook environment
-Structured Data preparation was done through Jupyter Notebook, 'Capstone_EDA_v2.ipynb'.
+Structured Data preparation was done in Jupyter Notebook, 'Capstone_EDA_v2.ipynb'.
 Please use the 'Capstone_EDA_v2.ipynb' jupyter notebook file to prepare the data. This notebook has two sections, first section for data cleaning and imputations, second section to perorm EDA.
 This notebook read the source data file and produces a cleansed version of data in CSV file format, that will be later used for EDA and Machine Learning algorithms.
 ### Step-3: EDA, Run this step in Jupyter Notebook environment
-The second section of 'Capstone_EDA_v2.ipynb' reads the cleansed version of data produced in part-1 of this notebook, It produces several visualization those are very interesting, and some of the observations can be surprising.
-
+EDA was performed in the second section of 'Capstone_EDA_v2.ipynb' notebook. It reads the cleansed version of data produced in part-1 of this notebook, It produces several visualization those are very interesting, and some of the observations can be surprising.
 ### Step-4: Machine Learing Models, Run this step in Jupyter Notebook environment
-The 'Capstone_OLS_RF_XGBoost.ipynb' reads the cleansed dataset produced by part-1 of 'Capstone_EDA_v2.ipynb' notebook. We have implemented OLS (Oridnary Leaset Squares), RandomForestRegressor and XGBoostRegressor models in this file. We have captured various performace metrics such as R2 score, MAE, MAPE and MSE from these models. In this notebook we save the final pipeline in a pickel file, 
-### Step-5: Test the ML model:
+Machine learning model are implemented in jupyter notebook file 'Capstone_OLS_RF_XGBoost.ipynb'.
+The 'Capstone_OLS_RF_XGBoost.ipynb' reads the cleansed dataset produced by part-1 of 'Capstone_EDA_v2.ipynb' notebook. We have implemented OLS (Oridnary Leaset Squares), RandomForestRegressor and XGBoostRegressor models in this file. We have captured various performace metrics such as R2 score, MAE, MAPE and MSE from these models. The trained pipelines are saved in pickle files. The final production deployed pickel file is 'oe_rf_depth20_50Estimators.sav' 
+### Step-5: Import the custom utility methods we created for the application, save it in the same folder where the other Jupyter Notebooks are.
+We have created a python script with all the custom utility methods used in the project. The script name is 'VehicleUtilityFunctions.py'. Please save it to the same folder where you have saved other jupyter notebok files. 
+### Step-5: Real world test of ML model: Run this step in Jupyter Notebook environemnt.
+We have created a jupyter notebook .SinglePrediction_RF.ipynb' to test the deployed version of ML model.
+In this notebook one can enter the vehile details in a dictionary format and run the notebook to get the price prediction and 95% Confidence Interval range.
+
