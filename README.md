@@ -30,3 +30,6 @@ We have created a python script with all the custom utility methods used in the 
 We have created a jupyter notebook .SinglePrediction_RF.ipynb' to test the deployed version of ML model.
 In this notebook one can enter the vehile details in a dictionary format and run the notebook to get the price prediction and 95% Confidence Interval range.
 
+## Recreating Image Classifiers
+
+
