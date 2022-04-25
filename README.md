@@ -8,6 +8,8 @@ We embarked on this project with the goal of creating a version of online forms 
 
 To reach the goals we had set, we came up with a plan. We wanted to use whatever data the user was willing to give us about their vehicle to try to make a prediction of how much their vehicle would be worth. This data optionally included an image. The image in conjunction with any other data that the user was willing to give would be used for the prediction. To use the image, we would make image classifiers to get useful features about the car that would later be fed to our final model. The final model would then use all of the data given directly from the user and data extracted from the image to make a price prediction. Along with the model’s best guess, a range between two dollar amounts would be given. This range would be the range that the model thinks likely holds the true value of the car. This range would grow or shrink based on how much data was given to the model by the user. The map for how we would develop this system is shown below.
 
+Full project report is available on Medium: https://medium.com/@rshaik_57200/siads-697-capstone-project-d8e0842e6a16
+
 Illustration of proposed pipeline that describes the workflow of our entire project
 ![image](https://user-images.githubusercontent.com/55704682/165000581-9f863646-f24e-464a-89d4-c13076d75fef.png)
 
