@@ -1,0 +1,1767 @@
+make,model,trim,count
+AMC,Comanche,Base 2WD,1
+Acura,CL,Type S,34
+Acura,Convertible,Targa,1
+Acura,Coupe,Coupe,2
+Acura,Escape,SEDAN,1
+Acura,GS,GS,1
+Acura,GS,SEDAN,1
+Acura,ILX,Premium,1049
+Acura,Integra,LS,11
+Acura,LS,LS,4
+Acura,Legend,Leather,3
+Acura,MDX,Technology Package,4395
+Acura,NSX,Base,67
+Acura,RDX,Technology Package,2462
+Acura,RL,Base,166
+Acura,RLX,Technology Package,141
+Acura,RSX,Base,65
+Acura,SLX,Base,3
+Acura,TL,Base,1170
+Acura,TLX,Technology Package,1766
+Acura,TSX,Base,886
+Acura,Vigor,GS,1
+Acura,ZDX,Technology Package,30
+Alfa Romeo,164,LS,1
+Alfa Romeo,164,Speed,1
+Alfa Romeo,4C,Base,31
+Alfa Romeo,900,Spider,1
+Alfa Romeo,Convertible,Spider,9
+Alfa Romeo,Giulia,Ti,563
+Alfa Romeo,Gtv-6,Base,1
+Alfa Romeo,M,4,1
+Alfa Romeo,Roadster,Spider,2
+Alfa Romeo,Spider,Veloce Convertible,4
+Alfa Romeo,Spyder,Spider,1
+Alfa Romeo,Stelvio,Ti,514
+Am General,Altima,SE,1
+Am General,H1,4-Door,4
+Am General,Hummer,Base,35
+Am General,LX,MV,1
+Aston Martin,Convertible,Speed,1
+Aston Martin,Coupe,V8,2
+Aston Martin,DB11,Base,128
+Aston Martin,DB7,Base,14
+Aston Martin,DB9,Base,82
+Aston Martin,DBS,Base,25
+Aston Martin,DBS Superleggera,Base,17
+Aston Martin,DBX,Base,76
+Aston Martin,Rapide,S,30
+Aston Martin,V12 Vantage,S,18
+Aston Martin,V8 Vantage,Base,75
+Aston Martin,V8 Vantage Roadster,Base,1
+Aston Martin,V8 Vantage Roadster SPORTSHIFT,Base,17
+Aston Martin,V8 Vantage SPORTSHIFT,Base,11
+Aston Martin,Vanquish,Base,44
+Aston Martin,Vantage,Base,155
+Aston Martin,Virage,Base,9
+Audi,100,SEDAN,1
+Audi,200,SEDAN,1
+Audi,90,CS quattro,1
+Audi,90,Quattro,1
+Audi,90,S,1
+Audi,A3,Premium,173
+Audi,A3 Cabriolet,Premium,142
+Audi,A3 Sedan,Premium,1964
+Audi,A3 Sportback e-tron,Premium,87
+Audi,A4,Premium,3489
+Audi,A4 allroad,Premium Plus,8
+Audi,A5,Premium,905
+Audi,A5 Cabriolet,Premium Plus,392
+Audi,A5 Coupe,Premium Plus,358
+Audi,A5 Sportback,Premium Plus,784
+Audi,A6,Premium Plus,1426
+Audi,A6 Allroad,Premium Plus,7
+Audi,A7,Premium Plus,449
+Audi,A8,Base,970
+Audi,Allroad Quattro,Base,4
+Audi,Allroad quattro,Base,23
+Audi,Cabriolet,Base,4
+Audi,Convertible,Base,1
+Audi,Convertible,Premium Plus,1
+Audi,Coupe,QUATTRO,3
+Audi,GT,GT,1
+Audi,Q3,Premium,744
+Audi,Q5,Premium Plus,4574
+Audi,Q5 Sportback,Premium Plus,21
+Audi,Q7,Premium Plus,2096
+Audi,Q8,Premium Plus,398
+Audi,R8,Base,494
+Audi,RS 3,Base,168
+Audi,RS 5,Base,163
+Audi,RS 5 Cabriolet,Base,2
+Audi,RS 5 Coupe,Base,75
+Audi,RS 5 Sportback,Base,186
+Audi,RS 6 Avant,Base,61
+Audi,RS 7,Base,136
+Audi,RS Q8,Base,72
+Audi,RS e-tron GT,Base,15
+Audi,RS4,Base,24
+Audi,RS6,Base,27
+Audi,RS7,Prestige,4
+Audi,S3,Premium Plus,384
+Audi,S4,Premium Plus,785
+Audi,S5,Premium Plus,432
+Audi,S5 Cabriolet,Premium Plus,131
+Audi,S5 Coupe,Premium Plus,157
+Audi,S5 Sportback,Premium Plus,341
+Audi,S6,Prestige,164
+Audi,S7,Prestige,106
+Audi,S8,Base,145
+Audi,SQ5,Premium Plus,949
+Audi,SQ5 Sportback,Premium Plus,10
+Audi,SQ7,Premium Plus,45
+Audi,SQ8,Prestige,34
+Audi,Spyder,V8,1
+Audi,TT,Base,272
+Audi,TT Coupe,Base,98
+Audi,TT RS,Base,69
+Audi,TT Roadster,Base,44
+Audi,TTS,Premium Plus,39
+Audi,TTS Coupe,Base,64
+Audi,allroad,Premium,189
+Audi,e-tron,Prestige,297
+Audi,e-tron GT,Prestige,15
+Audi,e-tron Sportback,Premium Plus,31
+BMW,1 Series,128i,446
+BMW,2 Series,228i,978
+BMW,3 Series,328i,5738
+BMW,3-Series,318is,1
+BMW,3-Series,323I,1
+BMW,3-Series,323i,1
+BMW,3-Series,325i,1
+BMW,3-Series,325ic,1
+BMW,4 Series,430i,2661
+BMW,5 Series,530i,2542
+BMW,5-Series,528e Automatic,1
+BMW,5-Series,M5,1
+BMW,500,3,1
+BMW,6 Series,650i,913
+BMW,6 Series Convertible,650i,44
+BMW,6 Series Coupe,650i,15
+BMW,6 Series Gran Coupe,640i,88
+BMW,6 Series Gran Turismo,640i,179
+BMW,6-Series,6-Series,1
+BMW,6-Series,633CSI Automatic,1
+BMW,6-Series,635 Csi,1
+BMW,6-Series,M6,1
+BMW,7 Series,750i,1608
+BMW,7-Series,750i xDrive,1
+BMW,8 Series,M850i,256
+BMW,850,i,1
+BMW,900,XR,3
+BMW,ALPINA B6 Gran Coupe,Base,7
+BMW,Accord,SEDAN,1
+BMW,CC,1,1
+BMW,Cabriolet,3,2
+BMW,Convertible,M3,8
+BMW,Coupe,M3,12
+BMW,F-150,325i,1
+BMW,GS,Adventure,5
+BMW,GT,C,1
+BMW,GT,F,1
+BMW,GT,GT,1
+BMW,I3,Base,172
+BMW,I8,Base,4
+BMW,IS,3,1
+BMW,IS,Base,1
+BMW,IS,SEDAN,1
+BMW,K1200S,Sport Touring,1
+BMW,M,M3,63
+BMW,M Series,M3,127
+BMW,M2 Coupe,Base,352
+BMW,M3,M3,6
+BMW,M3 Sedan,Base,743
+BMW,M4 Convertible,Base,325
+BMW,M4 Coupe,Base,902
+BMW,M5,Base,440
+BMW,M5 Sedan,Base,57
+BMW,M6,Base,1
+BMW,M6,M6,1
+BMW,M6 Convertible,Base,37
+BMW,M6 Coupe,Base,32
+BMW,M6 Gran Coupe,Base,74
+BMW,M8 Convertible,Base,1
+BMW,M8 Convertible,M8,1
+BMW,M8 Coupe,Base,14
+BMW,M8 Gran Coupe,Base,23
+BMW,Roadster,3,3
+BMW,X1,28i,4473
+BMW,X2,28i,1742
+BMW,X2 M,35i,19
+BMW,X3,30i,3102
+BMW,X3 M,Base,272
+BMW,X4,30i,344
+BMW,X4 M,Base,80
+BMW,X5,xDrive35i,3043
+BMW,X5 M,Base,260
+BMW,X6,xDrive35i,732
+BMW,X6 M,Base,208
+BMW,X7,40i,986
+BMW,Z3,Base,199
+BMW,Z4,Base,234
+BMW,Z8,Base,28
+BMW,i3,Base,488
+BMW,i8,Base,182
+Bentley,300,Touring,1
+Bentley,Arnage,Base,27
+Bentley,Azure,Base,28
+Bentley,Bentayga,Base,304
+Bentley,Bentley Eight,Base,1
+Bentley,Brooklands,Base,9
+Bentley,Continental,R,4
+Bentley,Continental Flying Spur,Base,120
+Bentley,Continental GT,Base,500
+Bentley,Continental GTC,Base,266
+Bentley,Continental Supersports,Base,25
+Bentley,Flying Spur,Base,225
+Bentley,Mulsanne,Base,59
+Bentley,Turbo,Turbo,6
+Bentley,Turbo R,Turbo R,1
+Bugatti,Veyron,3,1
+Bugatti,Veyron,Base,1
+Buick,Cascada,Premium,325
+Buick,Century,Custom,160
+Buick,Convertible,Base,4
+Buick,Coupe,Base,5
+Buick,Enclave,Leather,2187
+Buick,Encore,Preferred,5290
+Buick,Encore GX,Select,488
+Buick,Envision,Essence,1714
+Buick,Gransport,Custom,1
+Buick,IS,2,1
+Buick,LaCrosse,Leather,834
+Buick,LeSabre,Custom,319
+Buick,Lucerne,CXL,680
+Buick,Park Avenue,Base,91
+Buick,Rainier,CXL,82
+Buick,Reatta,Base,8
+Buick,Regal,CXL,284
+Buick,Regal Sportback,Essence,94
+Buick,Regal TourX,Preferred,72
+Buick,Rendezvous,CX,162
+Buick,Riviera,Coupe,13
+Buick,Roadmaster,Limited,3
+Buick,Skylark,CUSTOM,1
+Buick,Skylark,Custom,1
+Buick,Skylark,Sport,1
+Buick,Terraza,CXL,35
+Buick,Turbo,Turbo,1
+Buick,Verano,1SD,598
+Cadillac,ATS,Luxury Collection,792
+Cadillac,ATS Coupe,Luxury Collection,77
+Cadillac,ATS Sedan,Luxury,330
+Cadillac,ATS-V Coupe,V,83
+Cadillac,ATS-V Sedan,V,100
+Cadillac,Allante,Base,20
+Cadillac,Brougham,Base,2
+Cadillac,CC,Pro,1
+Cadillac,CT,SEDAN,1
+Cadillac,CT4,Sport,107
+Cadillac,CT5,Premium Luxury,210
+Cadillac,CT6,Luxury,581
+Cadillac,CTS,3.6,413
+Cadillac,CTS Coupe,Performance Collection,115
+Cadillac,CTS Sedan,Luxury,987
+Cadillac,CTS Sport Sedan,Luxury Collection,116
+Cadillac,CTS Sport Wagon,Luxury Collection,6
+Cadillac,CTS-V Coupe,V,105
+Cadillac,CTS-V Sedan,V,183
+Cadillac,CTS-V Sport Sedan,V,45
+Cadillac,CTS-V Sport Wagon,V,10
+Cadillac,California,SPECIAL,1
+Cadillac,Catera,Base,11
+Cadillac,Convertible,Coupe,13
+Cadillac,Coupe,Base,1
+Cadillac,Coupe,Coupe,1
+Cadillac,DTS,Luxury,159
+Cadillac,DeVille,Base,278
+Cadillac,Deville,Sedan,3
+Cadillac,ELR,Base,51
+Cadillac,Eldorado,Base,32
+Cadillac,Escalade,Luxury,2876
+Cadillac,Escalade ESV,Luxury,1257
+Cadillac,Escalade EXT,Base,230
+Cadillac,Fleetwood,Base,4
+Cadillac,Krystal Koach,Base FWD,1
+Cadillac,Krystal Koach,SPECIAL,1
+Cadillac,Regency,Professional,1
+Cadillac,SRX,Luxury Collection,1980
+Cadillac,STS,Base,247
+Cadillac,Seville,SLS,46
+Cadillac,Taos,VAN,1
+Cadillac,XLR,Base,147
+Cadillac,XT4,Premium Luxury,1015
+Cadillac,XT5,Luxury,3466
+Cadillac,XT6,Premium Luxury,910
+Cadillac,XTS,Luxury Collection,767
+Chevrolet,1500,10 Series,1
+Chevrolet,3500 LCF Gas,2WD Crew Cab 176,1
+Chevrolet,Astro,Base,55
+Chevrolet,Astro Cargo,Base,60
+Chevrolet,Astro Passenger,Base,2
+Chevrolet,Avalanche,Base,667
+Chevrolet,Aveo,LS,99
+Chevrolet,Aveo5,1LS,68
+Chevrolet,B-Series,C,1
+Chevrolet,Beretta,Base,1
+Chevrolet,Blazer,2LT,1830
+Chevrolet,Bolt EUV,Premier,144
+Chevrolet,Bolt EV,LT,315
+Chevrolet,C/K 10,Regular Cab 2WD,3
+Chevrolet,C/K 10,Regular Cab 4WD,3
+Chevrolet,C/K 1500,C,8
+Chevrolet,C/K 1500 Series,454SS,5
+Chevrolet,C/K 2500,C,2
+Chevrolet,C/K 3500,Ext. Cab 4WD,1
+Chevrolet,C/K 3500,Reg. Cab 4WD,1
+Chevrolet,C/K3500 Classic,Base,1
+Chevrolet,C1500,CHEYENNE,44
+Chevrolet,C2500,CHEYENNE,12
+Chevrolet,C30,C,1
+Chevrolet,C3500,BASE,25
+Chevrolet,C4500,4,1
+Chevrolet,C4500,C4500,1
+Chevrolet,C5U042,C5U042,1
+Chevrolet,C70,Commercial,2
+Chevrolet,Caliber,R/T,1
+Chevrolet,Camaro,1LT,5046
+Chevrolet,Caprice,Base,1
+Chevrolet,Caprice,Classic Brougham,1
+Chevrolet,Caprice,Police,1
+Chevrolet,Caprice,Sedan 4D Police,1
+Chevrolet,Caprice Classic,SA,5
+Chevrolet,Caprice Wagon,Classic,1
+Chevrolet,Captiva Sport,LT,309
+Chevrolet,Cavalier,Base,147
+Chevrolet,Chevy Van,VAN,5
+Chevrolet,City Express,1LT,256
+Chevrolet,Classic,Base,76
+Chevrolet,Cobalt,LT,602
+Chevrolet,Colorado,LT,4283
+Chevrolet,Convertible,CONVERTIBLE,44
+Chevrolet,Corsica,Base,1
+Chevrolet,Corsica,LT,1
+Chevrolet,Corvette,Base,3561
+Chevrolet,Coupe,2,1
+Chevrolet,Coupe,Club,1
+Chevrolet,Cruze,LT,5075
+Chevrolet,Cruze Limited,1LT,867
+Chevrolet,D30,Military Postal Unit,1
+Chevrolet,El Camino,Base,1
+Chevrolet,El Camino,Regular Cab 2WD,1
+Chevrolet,El Camino,eL,1
+Chevrolet,Equinox,LT,23748
+Chevrolet,Escape,C,1
+Chevrolet,Explorer,Express,28
+Chevrolet,Express,LS,276
+Chevrolet,Express Cargo,Work Van,3138
+Chevrolet,Express Cutaway,Base,245
+Chevrolet,Express Passenger,LS,478
+Chevrolet,Flex,Police,3
+Chevrolet,Fusion,2,1
+Chevrolet,G,VAN,4
+Chevrolet,G20,VAN,7
+Chevrolet,HHR,LT,610
+Chevrolet,Impala,1LT,3335
+Chevrolet,Impala Limited,2FL,302
+Chevrolet,Impala SS,Base,3
+Chevrolet,Jimmy,SLS,1
+Chevrolet,K1500,CHEYENNE,61
+Chevrolet,K2500,CHEYENNE,27
+Chevrolet,K3500,CHEYENNE,18
+Chevrolet,LS,C,3
+Chevrolet,LS,LS,3
+Chevrolet,Low Cab Forward,Base,35
+Chevrolet,Lumina,Base,24
+Chevrolet,Malibu,1LT,14599
+Chevrolet,Malibu Classic,LS,24
+Chevrolet,Malibu Limited,1LT,419
+Chevrolet,Malibu Maxx,LT,67
+Chevrolet,Metro,BASE,1
+Chevrolet,Monte Carlo,SS,229
+Chevrolet,P30,P30,1
+Chevrolet,Prizm,Base,18
+Chevrolet,R10,Regular Cab 2WD,3
+Chevrolet,Raider,C,1
+Chevrolet,Ranger,XL,1
+Chevrolet,S-10,LS,249
+Chevrolet,S10,Regular Cab 2WD,1
+Chevrolet,S10,eL,1
+Chevrolet,S10 Pickup,Reg. Cab Short Bed 2WD,1
+Chevrolet,S10 Pickup,S10 Pickup,1
+Chevrolet,SILVERADO 4WD,K2500 DIESEL,1
+Chevrolet,SS,Base,266
+Chevrolet,SSR,LS,228
+Chevrolet,Sierra 1500,2,1
+Chevrolet,Silverado,LS,274
+Chevrolet,Silverado 1500,LT,36266
+Chevrolet,Silverado 1500 LD,LT,1237
+Chevrolet,Silverado 1500 Limited,Custom,138
+Chevrolet,Silverado 1500HD,LS,66
+Chevrolet,Silverado 2500,Custom,8
+Chevrolet,Silverado 2500HD,LT,4252
+Chevrolet,Silverado 3500,LT,104
+Chevrolet,Silverado 3500 Chassis Cab,Work Truck,549
+Chevrolet,Silverado 3500HD,LTZ,1495
+Chevrolet,Silverado 4500 Medium Duty Chassis Cab,Work Truck,103
+Chevrolet,Silverado Classic 1500,Work Truck,75
+Chevrolet,Silverado Classic 1500HD,LT3,4
+Chevrolet,Silverado Classic 2500HD,LT3,45
+Chevrolet,Silverado Classic 3500,LS,9
+Chevrolet,Silverado Classic 3500 Chassis Cab,Work Truck,10
+Chevrolet,Sonic,LT,2210
+Chevrolet,Soul,Base,1
+Chevrolet,Spark,LS,1813
+Chevrolet,Suburban,LT,6147
+Chevrolet,Tacoma,V6,1
+Chevrolet,Tahoe,LT,10729
+Chevrolet,Terrain,C,1
+Chevrolet,Tracker,Base,67
+Chevrolet,TrailBlazer,LS,852
+Chevrolet,Trailblazer,LT,418
+Chevrolet,Traverse,1LT,8063
+Chevrolet,Trax,LT,5925
+Chevrolet,Truck,Commercial,44
+Chevrolet,Uplander,LS,127
+Chevrolet,V10,Regular Cab 4WD,2
+Chevrolet,Venture,Base,34
+Chevrolet,Venture Cargo,Base,1
+Chevrolet,Volt,LT,663
+Chevrolet,cube,VAN,3
+Chevrolet,iA,10 Series,1
+Chrysler,200,Limited,3464
+Chrysler,300,S,2806
+Chrysler,300M,Base,53
+Chrysler,Aspen,Limited,164
+Chrysler,Cirrus,LXI,10
+Chrysler,Classic,SEDAN,1
+Chrysler,Concorde,LX,25
+Chrysler,Convertible,BY,5
+Chrysler,Convertible,GTC,5
+Chrysler,Crossfire,Limited,209
+Chrysler,Grand Voyager,SE,3
+Chrysler,Imperial,Base,3
+Chrysler,LHS,Base,9
+Chrysler,LX,LX,1
+Chrysler,Le Baron,Base,1
+Chrysler,Le Baron,Landau,1
+Chrysler,LeBaron,GTC,2
+Chrysler,PT Cruiser,Base,397
+Chrysler,Pacifica,Touring L,3760
+Chrysler,Pacifica Hybrid,Limited,362
+Chrysler,Prowler,Base,38
+Chrysler,Sebring,Touring,355
+Chrysler,TC,BY,3
+Chrysler,TC By Maserati,Convertible,1
+Chrysler,Town & Country,Touring,3624
+Chrysler,Voyager,LXI,1145
+Chrysler,XE,XT,1
+Chrysler,tC,BY,6
+Daewoo,Leganza,CDX,3
+Daewoo,Nubira,CDX AT Sedan,2
+Datsun,280ZX,Base,2
+Dodge,Avenger,SE,1129
+Dodge,Caliber,SXT,285
+Dodge,California,250,1
+Dodge,Caravan,SE,97
+Dodge,Challenger,R/T,5588
+Dodge,Charger,SXT,6268
+Dodge,Classic,SLT,1
+Dodge,Colt,Base,1
+Dodge,Convertible,RT,4
+Dodge,Coupe,Daytona,1
+Dodge,D150,P,1
+Dodge,D250,Reg. Cab 8-Ft. Bed 2WD,1
+Dodge,D350,2WD,1
+Dodge,D350,350,1
+Dodge,D350,Reg. Cab 8-Ft. Bed 2WD,1
+Dodge,D50,Custom 2WD,1
+Dodge,Dakota,SLT,529
+Dodge,Dart,SXT,1467
+Dodge,Daytona,Turbo Z,1
+Dodge,Durango,GT,3032
+Dodge,ES,ES,3
+Dodge,Grand Caravan,SXT,8531
+Dodge,Intrepid,ES,22
+Dodge,Journey,SE,4601
+Dodge,Lancer,Base,1
+Dodge,Lancer,ES,1
+Dodge,Magnum,SXT,93
+Dodge,Neon,SXT,73
+Dodge,Nitro,SXT,227
+Dodge,Omni,Base,2
+Dodge,Raider,Base,1
+Dodge,Ram,Speed,1
+Dodge,Ram 150,LE,1
+Dodge,Ram 1500,WS Reg. Cab 6.5-Ft. Bed 2WD,1
+Dodge,Ram 1500 Classic,SLT,2
+Dodge,Ram 1500 Pickup,SLT,1587
+Dodge,Ram 250,Reg. Cab 8-Ft. Bed 4WD,1
+Dodge,Ram 2500,Ram 2500,2
+Dodge,Ram 2500 Pickup,SLT,653
+Dodge,Ram 3500,ST Club Cab 8-Ft. Bed 4WD,2
+Dodge,Ram 3500 Chassis Cab,ST,19
+Dodge,Ram 3500 Pickup,SLT,281
+Dodge,Ram 4500 Chassis Cab,ST,7
+Dodge,Ram 5500,Regular Cab 4WD,1
+Dodge,Ram 5500 Chassis Cab,Tradesman,1
+Dodge,Ram Pickup,ST,367
+Dodge,Ram Pickup 3500,SLT,1
+Dodge,Ram Pickup 3500,ST,1
+Dodge,Ram SRT-10,Base,101
+Dodge,Ram Van,Base,47
+Dodge,Ram Wagon,Base,20
+Dodge,Rampage,Base,2
+Dodge,Roadster,RT,1
+Dodge,SRT Viper,GTS,1
+Dodge,SX,Base,1
+Dodge,Shadow,ES,1
+Dodge,Shelby Charger,Base,1
+Dodge,Spirit,Base,1
+Dodge,Sprinter Cab Chassis,Super,1
+Dodge,Sprinter Van,Base,132
+Dodge,Sprinter Wagon,Base,14
+Dodge,Stealth,Base,1
+Dodge,Stealth,HATCHBACK,1
+Dodge,Stealth,R/T,1
+Dodge,Stratus,SXT,66
+Dodge,TT,L,1
+Dodge,Truck,ST,12
+Dodge,Turbo,Turbo,3
+Dodge,Viper,SRT-10,111
+Dodge,W250,Reg. Cab 8-Ft. Bed 4WD,1
+Eagle,Classic,Harley-Davidson,1
+Eagle,ES,Premier,1
+Eagle,Golf,200,2
+Eagle,SX,4,1
+Eagle,Talon,TSI AWD,2
+FIAT,124 Spider,Classica,205
+FIAT,500,Pop,751
+FIAT,500L,Trekking,179
+FIAT,500X,Trekking,177
+FIAT,500c,Pop,40
+FIAT,500e,Battery Electric,311
+FIAT,Convertible,Spider,1
+FIAT,Spider 124,Base,1
+Ferrari,308,GTS Quattrovalvole,2
+Ferrari,328,GTS,4
+Ferrari,348,Spider,2
+Ferrari,348,TS,2
+Ferrari,360,Base,109
+Ferrari,360 Modena,Modena,3
+Ferrari,456,GT,1
+Ferrari,456M,GTA,5
+Ferrari,458 Italia,Base,75
+Ferrari,458 Speciale,Base,13
+Ferrari,458 Speciale A,Base,5
+Ferrari,458 Spider,Base,81
+Ferrari,488,Pista,47
+Ferrari,488 GTB,Base,81
+Ferrari,488 GTC4Lusso,Base,2
+Ferrari,488 Pista,Base,13
+Ferrari,488 Spider,Base,70
+Ferrari,500,GTS,1
+Ferrari,512 TR,Base,3
+Ferrari,550 Maranello,Base,15
+Ferrari,575M Maranello,Base,18
+Ferrari,599,Base,37
+Ferrari,612,Base,26
+Ferrari,812,Base,44
+Ferrari,900,GTS,1
+Ferrari,Cabriolet,T,3
+Ferrari,California,Base,169
+Ferrari,California T,Base,99
+Ferrari,Convertible,Spider,37
+Ferrari,Coupe,Base,5
+Ferrari,Coupe,Coupe,5
+Ferrari,Enzo,Base,1
+Ferrari,F12berlinetta,Base,48
+Ferrari,F355,SPIDER,16
+Ferrari,F430,Base,91
+Ferrari,F8,Base,63
+Ferrari,FF,Base,31
+Ferrari,GT,GTS,1
+Ferrari,GT,T,1
+Ferrari,GTC4Lusso,GTC4Lusso,3
+Ferrari,IS,GTC4Lusso,2
+Ferrari,LaFerrari,Base,13
+Ferrari,M,75,1
+Ferrari,Mondial,T Cabriolet,1
+Ferrari,Portofino,Base,59
+Ferrari,Roma,Base,24
+Ferrari,SF90,Base,20
+Ferrari,Spider,Spider,1
+Ferrari,Spyder,Spider,2
+Ferrari,Superamerica,Base,11
+Ferrari,Testarossa,Base,7
+Ferrari,Turbo,GTC4Lusso,1
+Fisker,Karma,EcoSport,24
+Ford,200,Super,12
+Ford,450,Super,1
+Ford,488,Police,1
+Ford,500,Lariat,1
+Ford,6,Super,1
+Ford,850,Super,1
+Ford,88,Commercial,1
+Ford,900,F,1
+Ford,Aerostar,EDDIE BAUER,1
+Ford,Aerostar,Eddie Bauer,1
+Ford,Aerostar,XLT,1
+Ford,Bronco 2-Door,First Edition,77
+Ford,Bronco 4-Door,Outer Banks,279
+Ford,Bronco Sport,Big Bend,1405
+Ford,C-Max,SE,469
+Ford,CR-V,EX,1
+Ford,CT,Police,3
+Ford,California,450,1
+Ford,California,XLT,1
+Ford,Century,450,1
+Ford,Challenger,53,1
+Ford,Challenger,Premium,1
+Ford,Challenger,Super,1
+Ford,Classic,F,2
+Ford,Club Wagon,XLT,17
+Ford,Contour,SE,6
+Ford,Convertible,GT,41
+Ford,Corolla,F,1
+Ford,Coupe,GT,1
+Ford,Crown Victoria,Police,380
+Ford,Crown Victoria Wagon,Country Squire LX,1
+Ford,DTS,Police,1
+Ford,DeVille,F,1
+Ford,Discovery,53,1
+Ford,E-350,350,1
+Ford,E-350,Super,1
+Ford,E-Series Cutaway,Base,557
+Ford,E-Series Econoline Van,Commercial,1512
+Ford,E-Series Econoline Wagon,XL,192
+Ford,E-Series Econoline Wagon,XLT,192
+Ford,E-Series Stripped Chassis,Base,1
+Ford,E350,E350,1
+Ford,E350,Super,1
+Ford,E350,XL,1
+Ford,E450,E450,2
+Ford,EX,4X4,1
+Ford,EX,Evolution,1
+Ford,EcoSport,SE,221
+Ford,Econoline,Commercial,4
+Ford,Econoline Cargo,E-350 Super Duty,2
+Ford,Econoline Van,Commercial,505
+Ford,Econoline Wagon,XLT,105
+Ford,Ecosport,SE,2937
+Ford,Edge,SEL,12930
+Ford,Eldorado,Super,1
+Ford,Encore,53,1
+Ford,Escape,SE,19356
+Ford,Escort,SE,18
+Ford,Excursion,Limited,226
+Ford,Expedition,Limited,6755
+Ford,Explorer,XLT,19919
+Ford,Explorer Sport,SPORT,31
+Ford,Explorer Sport Trac,XLT,359
+Ford,Express,Commercial,1
+Ford,Express Cargo,Super,1
+Ford,F-150,XLT,43830
+Ford,F-150 Heritage,XL,50
+Ford,F-150 Lightning,SVT,1
+Ford,F-250,XL,87
+Ford,F-250 Super Duty,Lariat,6480
+Ford,F-350,Super,69
+Ford,F-350 SD,XLT,2
+Ford,F-350 SD Chassis Cab,XL,12
+Ford,F-350 Super Duty,Lariat,4077
+Ford,F-350 Super Duty Chassis Cab,XL,1013
+Ford,F-450 SD,450,2
+Ford,F-450 SD,Crew Cab 2WD DRW,2
+Ford,F-450 Super Duty,Platinum,250
+Ford,F-450 Super Duty Chassis Cab,XL,427
+Ford,F-530,2WD,1
+Ford,F-550 Super Duty,Super,2
+Ford,F-550 Super Duty Chassis Cab,XL,143
+Ford,F-650,Super,4
+Ford,F-750,F,7
+Ford,F150,2,1
+Ford,F350,F350,1
+Ford,Fiesta,SE,5114
+Ford,Five Hundred,SEL,146
+Ford,Flex,SEL,2536
+Ford,Focus,SE,9161
+Ford,Freelander,E450,1
+Ford,Freestar,SE,38
+Ford,Freestyle,SEL,91
+Ford,Fusion,SE,17977
+Ford,Fusion Energi,Titanium,747
+Ford,Fusion Hybrid,SE,2835
+Ford,G,F,1
+Ford,G,Super,1
+Ford,GLS,Sport,1
+Ford,GT,Base,128
+Ford,Grand Caravan,Crew,1
+Ford,IS,EDDIE BAUER,3
+Ford,LX,SEDAN,1
+Ford,Low Cab Forward,Commercial,2
+Ford,M,V10,1
+Ford,Maverick,XL,47
+Ford,Maverick,XLT,47
+Ford,Mustang,GT,5082
+Ford,Mustang Mach-E,Premium AWD,176
+Ford,Mustang SVT Cobra,Base,5
+Ford,Probe,Base,1
+Ford,RAV4,F,1
+Ford,Ranger,XLT,4595
+Ford,Shelby GT350,Shelby GT350,1
+Ford,Silverado 3500,Crew,1
+Ford,Stripped Chassis Motorhome,Four,1
+Ford,Stripped Chassis Motorhome,Super,1
+Ford,Taurus,SEL,2351
+Ford,Taurus X,SEL,52
+Ford,Think,Neighbor,1
+Ford,Thunderbird,Deluxe,441
+Ford,Transit,Base,1009
+Ford,Transit Chassis Cab,Base,30
+Ford,Transit Connect,XL,1423
+Ford,Transit Crew Van,Base,10
+Ford,Transit Cutaway,Base,95
+Ford,Transit Passenger Van,XLT,619
+Ford,Transit Van,Base,3762
+Ford,Transit Wagon,XLT,304
+Ford,Truck,Super,153
+Ford,Turbo,Base,1
+Ford,Turbo,Turbo Diesel,1
+Ford,Vibe,Lariat,1
+Ford,Windstar,LX,32
+Ford,Windstar Cargo,Base,1
+Ford,Windstar Van,Base,4
+Ford,cube,Super,3
+Ford,iA,Super,1
+GENESIS,G70,Advanced,587
+GENESIS,G80,Base,657
+GENESIS,G90,Premium,128
+GENESIS,GV70,Sport,45
+GENESIS,GV80,Standard,112
+GMC,A8,L,1
+GMC,Acadia,Denali,4260
+GMC,Acadia Limited,Base,517
+GMC,Blazer,Custom,1
+GMC,C/K 1500,Regular Cab 4WD,1
+GMC,C/K 2500,Regular Cab 2WD,1
+GMC,C1500,C,2
+GMC,C2500,C,3
+GMC,C3500,Blue,1
+GMC,C7H064,C7H064,1
+GMC,CT,Commercial,1
+GMC,Caballero,Regular Cab 2WD,1
+GMC,Canyon,SLE,1705
+GMC,Classic,Sierra,11
+GMC,Coupe,Club,5
+GMC,Envoy,SLE,406
+GMC,Envoy XL,SLE,41
+GMC,Envoy XUV,SLE,3
+GMC,Explorer,Limited X,8
+GMC,G,VAN,1
+GMC,G35,Rally,1
+GMC,Jimmy,SLE,14
+GMC,K1500,C,6
+GMC,K2500,C,3
+GMC,K3500,4X4,1
+GMC,P3500,2WD,2
+GMC,R1500,Regular Cab 2WD,1
+GMC,Regency,LTD,1
+GMC,Regency,Super,1
+GMC,S15 Pickup,Special Reg. Cab Short Bed 2WD,1
+GMC,Safari,Base,6
+GMC,Safari,SLX,6
+GMC,Safari Cargo,SL,23
+GMC,Savana,Base,31
+GMC,Savana Cargo,Work Van,1286
+GMC,Savana Cutaway,Work Van,129
+GMC,Savana Passenger,1LS,41
+GMC,Sierra,SL,154
+GMC,Sierra 1500,SLT,11706
+GMC,Sierra 1500 Denali,Denali,5685
+GMC,Sierra 1500 Limited,SLE,253
+GMC,Sierra 1500HD,SLE,22
+GMC,Sierra 2500,SLE,14
+GMC,Sierra 2500 Denali HD,Denali,3244
+GMC,Sierra 2500HD,SLT,1620
+GMC,Sierra 3500,SLT,117
+GMC,Sierra 3500 Chassis Cab,Work Truck,91
+GMC,Sierra 3500 Denali HD,Denali,1504
+GMC,Sierra 3500HD,SLT,223
+GMC,Sierra C/K 1500,Reg. Cab 6.5-ft. Bed 2WD,4
+GMC,Sierra C/K 2500,Reg. Cab 8-Ft. Bed 2WD,1
+GMC,Sierra C/K 2500,Reg. Cab 8-Ft. Bed 4WD,1
+GMC,Sierra Classic 1500,SL2,23
+GMC,Sierra Classic 2500HD,SLT,22
+GMC,Sierra Classic 3500,SLT,10
+GMC,Sierra Classic Denali,Denali,3
+GMC,Silverado,Work Truck,1
+GMC,Sonoma,SLS,76
+GMC,Suburban,SL,30
+GMC,Syclone,Base,1
+GMC,Terrain,SLE,5768
+GMC,Truck,Commercial,47
+GMC,Vandura,G3500,1
+GMC,Yukon,Denali,6130
+GMC,Yukon XL,Denali,4366
+Geo,Convertible,LSI,1
+Geo,Metro,Base,1
+Geo,Metro,LSI,1
+Geo,Prizm,LSI,5
+Geo,Tracker,2-Door,2
+Geo,Tracker,Base,2
+Geo,Tracker,CONVERTIBLE,2
+Geo,Tracker,SUV,2
+Honda,300,Rebel,9
+Honda,420,TRX,1
+Honda,500,Rebel,6
+Honda,Accord,Sport,10392
+Honda,Accord Crosstour,EX-L V6,225
+Honda,CMX250C,CMX250C,1
+Honda,CR-V,EX,10749
+Honda,CR-Z,EX,145
+Honda,Civic,LX,14802
+Honda,Civic Hatchback,Sport,1632
+Honda,Clarity,Base,226
+Honda,Coupe,HF,1
+Honda,Crosstour,EX-L V6,180
+Honda,Del Sol,Si,6
+Honda,ES,4X4,1
+Honda,ES,Adventure,1
+Honda,ES,Recon,1
+Honda,Element,EX,630
+Honda,FSC600A,FSC600A,2
+Honda,Fit,Sport,1206
+Honda,GL1500SE,GL1500SE,2
+Honda,GL1800,GL1800,3
+Honda,HR-V,EX,2107
+Honda,Insight,EX,426
+Honda,Odyssey,EX-L,7387
+Honda,Passport,EX-L,837
+Honda,Phantom,MC,1
+Honda,Phantom,VT,1
+Honda,Pilot,EX-L,7848
+Honda,Prelude,Base,12
+Honda,Ridgeline,RTL,1401
+Honda,S1999,Base,38
+Honda,S2000,Base,390
+Honda,Shadow,Shadow,1
+Honda,Talon,BY,1
+Honda,Terrain,4,1
+Honda,VFR1300CR,VFR1300CR,1
+Honda,VT1100C2,VT1100C2,1
+Honda,VT1300CX,VT1300CX,2
+Honda,VT750C,VT750C,2
+Honda,VT750C2F,VT750C2F,4
+Honda,VT750DC,VT750DC,1
+Honda,VTX1300R,VTX1300R,1
+Honda,VTX1800S,VTX1800S,1
+Hummer,H1,Base,48
+Hummer,H2,Base,745
+Hummer,H3,Base,375
+Hummer,H3T,Base,35
+Hummer,Truck,Leather,1
+Hummer,Truck,Luxury,1
+Hummer,Truck,SUT,1
+Hyundai,300,Luxury Sport,1
+Hyundai,Accent,SE,2504
+Hyundai,Azera,Limited,215
+Hyundai,Elantra,SE,7449
+Hyundai,Elantra Coupe,GS,86
+Hyundai,Elantra GT,Base,957
+Hyundai,Elantra Touring,GLS,130
+Hyundai,Entourage,GLS,52
+Hyundai,Equus,Signature,175
+Hyundai,Genesis,Base,770
+Hyundai,Genesis Coupe,Premium,182
+Hyundai,IONIQ,Limited,82
+Hyundai,IONIQ 5,SE,13
+Hyundai,Ioniq,Limited,100
+Hyundai,Kona,SEL,1310
+Hyundai,Kona EV,Ultimate,73
+Hyundai,Nexo,Limited,11
+Hyundai,Palisade,SEL,1159
+Hyundai,Santa Cruz,SEL,48
+Hyundai,Santa Fe,SE,3354
+Hyundai,Santa Fe Sport,Base,1102
+Hyundai,Sonata,SE,6915
+Hyundai,Sonata Hybrid,Hybrid,349
+Hyundai,Sonata Plug-In Hybrid,Plug-in Hybrid Limited,13
+Hyundai,Sonata Plug-in Hybrid,Plug-in Hybrid Limited,23
+Hyundai,Tiburon,GS,43
+Hyundai,Tucson,SE,4691
+Hyundai,Veloster,Base,2374
+Hyundai,Venue,SEL,297
+Hyundai,Veracruz,Limited,148
+Hyundai,XG300,Base,1
+Hyundai,XG350,L,33
+Hyundai,XT,XT,1
+INFINITI,Convertible,Luxury Sport,1
+INFINITI,EX,35 Journey,183
+INFINITI,FX,35,496
+INFINITI,FX35,Base,59
+INFINITI,FX45,Base,18
+INFINITI,G,35,278
+INFINITI,G Convertible,37,131
+INFINITI,G Coupe,37x,172
+INFINITI,G Sedan,37x,662
+INFINITI,G20,Base,12
+INFINITI,G35,Base,283
+INFINITI,G35 Coupe,Base,102
+INFINITI,G35 Sport Coupe,Base,81
+INFINITI,I30,Luxury,17
+INFINITI,I35,Luxury,55
+INFINITI,J30,Base,3
+INFINITI,JX,Base,500
+INFINITI,M,37,385
+INFINITI,M30,Base,1
+INFINITI,M45,Base,10
+INFINITI,Q,Sport,1
+INFINITI,Q40,Base,129
+INFINITI,Q45,Base,32
+INFINITI,Q50,LUXE,2426
+INFINITI,Q60 Convertible,Base,33
+INFINITI,Q60 Coupe,LUXE,388
+INFINITI,Q70,3.7,156
+INFINITI,Q70L,LUXE,115
+INFINITI,QX,56,825
+INFINITI,QX3,Base,20
+INFINITI,QX30,Premium,431
+INFINITI,QX4,Base,39
+INFINITI,QX50,Essential,1891
+INFINITI,QX55,Luxe,26
+INFINITI,QX56,Base,118
+INFINITI,QX60,Base,3850
+INFINITI,QX70,Base,372
+INFINITI,QX80,Base,2506
+Isuzu,Amigo,S,9
+Isuzu,Ascender,S,44
+Isuzu,Axiom,Base,7
+Isuzu,Hombre,S,1
+Isuzu,Hombre,S Reg. Cab 2WD,1
+Isuzu,Hombre,XS,1
+Isuzu,Hombre,XS AT,1
+Isuzu,Impulse,RS,1
+Isuzu,Impulse,Turbo,1
+Isuzu,LS,STD,1
+Isuzu,Low Cab Forward,AT,1
+Isuzu,Pickup,4X4,1
+Isuzu,Rodeo,S,29
+Isuzu,Rodeo Sport,S,14
+Isuzu,Sierra 2500HD,Crew,1
+Isuzu,Stylus,XS,2
+Isuzu,Trooper,S,37
+Isuzu,Truck,Commercial,59
+Isuzu,Vehicross,Base,10
+Isuzu,i series,S,10
+Isuzu,tC,VAN,2
+Isuzu,xD,AT,1
+Isuzu,xD,Base,1
+Isuzu,xD,S,1
+Jaguar,Cabriolet,2+2,2
+Jaguar,Classic,Base,1
+Jaguar,Classic,Coupe,1
+Jaguar,Convertible,CONVERTIBLE,11
+Jaguar,Coupe,Coupe,3
+Jaguar,E-PACE,SE,91
+Jaguar,E-Pace,S,106
+Jaguar,F-PACE,Premium,256
+Jaguar,F-Pace,Premium,523
+Jaguar,F-TYPE,Base,221
+Jaguar,F-Type,Base,116
+Jaguar,I-PACE,HSE,43
+Jaguar,S-Type,V6,94
+Jaguar,X-Type,Base,120
+Jaguar,XE,Premium,296
+Jaguar,XF,Premium,284
+Jaguar,XJ,Portfolio,216
+Jaguar,XJ Sedan,XJ6,2
+Jaguar,XJ Series,XJ8,85
+Jaguar,XJ6,Base,6
+Jaguar,XJS,Base,2
+Jaguar,XJS,Coupe,2
+Jaguar,XK,Base,62
+Jaguar,XK Series,Base,75
+Jaguar,XK Series,XK8 Convertible,75
+Jaguar,XK8,Convertible,2
+Jeep,All-New Compass,Latitude,218
+Jeep,All-New Wrangler,Sport S,310
+Jeep,All-New Wrangler Unlimited,Sport S,2197
+Jeep,Cherokee,Limited,7941
+Jeep,Comanche,Pioneer 4WD,1
+Jeep,Commander,Sport,238
+Jeep,Compass,Latitude,7188
+Jeep,Convertible,SUV,3
+Jeep,Gladiator,Rubicon,2067
+Jeep,Grand Cherokee,Limited,14530
+Jeep,Grand Cherokee L,Limited,573
+Jeep,Grand Cherokee WK,Limited,22
+Jeep,Grand Wagoneer,Series III,78
+Jeep,Liberty,Sport,2134
+Jeep,Patriot,Sport,3490
+Jeep,Renegade,Latitude,5622
+Jeep,Truck,Base,1
+Jeep,Truck,Pioneer 4WD,1
+Jeep,Wagoneer,Series III,189
+Jeep,Wrangler,Sport,3795
+Jeep,Wrangler JK,Sport S,163
+Jeep,Wrangler JK Unlimited,Sport S,1022
+Jeep,Wrangler Unlimited,Sahara,10563
+KARMA,GS,S,1
+KARMA,GS-6,Sport,8
+KARMA,Revero,Base,28
+Kia,Amanti,Base,81
+Kia,Borrego,EX,43
+Kia,Cadenza,Premium,411
+Kia,Carnival,LX,93
+Kia,Ev6,GT-Line,8
+Kia,FORTE,LXS,2623
+Kia,Forte,LX,3081
+Kia,Forte Koup,EX,204
+Kia,Forte5,LX,334
+Kia,K5,GT-Line,638
+Kia,K900,Luxury,100
+Kia,New Optima,LX,50
+Kia,Niro,LX,530
+Kia,Optima,LX,9018
+Kia,RIO,S,848
+Kia,Rio,LX,1050
+Kia,Rio 5-Door,LX,247
+Kia,Rondo,LX,109
+Kia,Sedona,LX,1523
+Kia,Seltos,S,505
+Kia,Sephia,GS,1
+Kia,Sephia,LS,1
+Kia,Sorento,LX,10620
+Kia,Soul,Base,5230
+Kia,Spectra,EX,202
+Kia,Sportage,LX,6874
+Kia,Stinger,GT2,634
+Kia,Telluride,S,936
+Lamborghini,900,Anniversary Edition,1
+Lamborghini,Aventador,Base,97
+Lamborghini,Countach,25,1
+Lamborghini,Countach,Leather,1
+Lamborghini,Coupe,4,1
+Lamborghini,Coupe,Coupe,1
+Lamborghini,Diablo,VT,5
+Lamborghini,Gallardo,Base,90
+Lamborghini,Huracan,Base,217
+Lamborghini,Murcielago,Base,2
+Lamborghini,Murcilago,Base,5
+Lamborghini,Murciélago,Base,28
+Lamborghini,Roadster,VT,1
+Lamborghini,Urus,Base,264
+Land Rover,Defender,SE,107
+Land Rover,Discovery,HSE,492
+Land Rover,Discovery Sport,HSE,1122
+Land Rover,Freelander,SE,7
+Land Rover,LR2,Base,132
+Land Rover,LR3,SE,77
+Land Rover,LR4,Base,373
+Land Rover,New Range Rover,SE,3
+Land Rover,Range Rover,HSE,1704
+Land Rover,Range Rover Evoque,SE,1040
+Land Rover,Range Rover Sport,HSE,2576
+Land Rover,Range Rover Velar,S,928
+Lexus,300,ES,8
+Lexus,500,5,1
+Lexus,CT,Base,657
+Lexus,Coupe,400,3
+Lexus,ES,350,6573
+Lexus,ES 300,Base,1
+Lexus,ES Hybrid,300h,208
+Lexus,GS,350,1653
+Lexus,GS 300,Base,1
+Lexus,GS F,Base,5
+Lexus,GX,Base,2387
+Lexus,HS,Premium,53
+Lexus,IS,250,2688
+Lexus,LC,500,338
+Lexus,LC Hybrid,500h,5
+Lexus,LFA,Base,1
+Lexus,LS,Base,1764
+Lexus,LS 400,Base,1
+Lexus,LS Hybrid,500h,12
+Lexus,LX,570,844
+Lexus,NX,300,2225
+Lexus,NX Hybrid,300h,237
+Lexus,RC,350,687
+Lexus,RC F,Base,31
+Lexus,RX,350,10428
+Lexus,RX Hybrid,450h,177
+Lexus,S40,SD,1
+Lexus,SC,430,635
+Lexus,UX,200,209
+Lexus,UX Hybrid,250h,151
+Lincoln,Aviator,Reserve,804
+Lincoln,Blackwood,Base,23
+Lincoln,Continental,Reserve,493
+Lincoln,Corsair,Reserve,446
+Lincoln,Coupe,Base,1
+Lincoln,LS,Base,52
+Lincoln,MKC,Reserve,1700
+Lincoln,MKS,Base,644
+Lincoln,MKT,EcoBoost,178
+Lincoln,MKX,Reserve,1595
+Lincoln,MKZ,Base,1762
+Lincoln,Mark LT,Base,98
+Lincoln,Mark VI,2,1
+Lincoln,Mark VI,Sedan,1
+Lincoln,Mark VII,Base,7
+Lincoln,Mark VIII,Base,1
+Lincoln,Nautilus,Reserve,1914
+Lincoln,Navigator,Reserve,1303
+Lincoln,Town Car,Signature,301
+Lincoln,Zephyr,Base,61
+Lincoln,tC,70,1
+Lotus,2-Eleven,Track,1
+Lotus,Convertible,Base,1
+Lotus,Elan,SE,1
+Lotus,Eleven,Track,1
+Lotus,Elise,Base,26
+Lotus,Esprit,Turbo,6
+Lotus,Evora,Base,23
+Lotus,Evora GT,Base,32
+Lotus,Exige,S,3
+MINI,Clubman,S,566
+MINI,Convertible,S,211
+MINI,Cooper,S,2518
+MINI,Countryman,S,1155
+MINI,Hardtop 2 Door,S,463
+MINI,Hardtop 4 Door,S,339
+MINI,M,BY,1
+MINI,MINI,Base,86
+MINI,Paceman,S,98
+MINI,Roadster,John Cooper Works,1
+MINI,SX,50,1
+Maserati,430,Base,1
+Maserati,Biturbo,E,2
+Maserati,Convertible,CONVERTIBLE,1
+Maserati,Coupe,Base,32
+Maserati,Ghibli,S,985
+Maserati,GranSport,GranSport,2
+Maserati,GranTurismo,Base,282
+Maserati,Gransport,Base,4
+Maserati,Levante,Base,355
+Maserati,MC20,Base,1
+Maserati,Quattroporte,S,318
+Maserati,Spyder,Base,18
+Maserati,Turbo,Turbo,1
+Maybach,Maybach,Base,14
+Maybach,S-Class,S,1
+Mazda,626,ES,19
+Mazda,929,Base,1
+Mazda,B-Series,SE,35
+Mazda,B-Series Pickup,Plus,1
+Mazda,CX-3,Sport,649
+Mazda,CX-30,Premium,204
+Mazda,CX-5,Touring,6943
+Mazda,CX-7,i Sport,123
+Mazda,CX-9,Touring,1752
+Mazda,Convertible,Base,10
+Mazda,Coupe,SE,1
+Mazda,MAZDA3,i Touring,1606
+Mazda,MAZDA5,Sport,371
+Mazda,MAZDA6,i Touring,1232
+Mazda,MPV,LX,55
+Mazda,MX-30,Premium Plus Package,7
+Mazda,MX-5,Base,65
+Mazda,MX-5 Miata,Grand Touring,586
+Mazda,MX-5 Miata RF,Grand Touring,530
+Mazda,MX-6,LS,1
+Mazda,MX-6,LX,1
+Mazda,Mazda2,Sport,183
+Mazda,Mazda3,Touring,1216
+Mazda,Mazda6,Touring,338
+Mazda,Miata,LS,43
+Mazda,Millenia,Base,6
+Mazda,Protege,DX,41
+Mazda,Protege5,Base,29
+Mazda,RX,GS,3
+Mazda,RX-7,Convertible,2
+Mazda,RX-8,Sport,23
+Mazda,Ranger,Speed,1
+Mazda,Tribute,LX,78
+Mazda,Truck,DS,14
+McLaren,12C,Base,61
+McLaren,570GT,Base,20
+McLaren,570S,Base,174
+McLaren,600LT,Base,76
+McLaren,650S,Base,43
+McLaren,675LT,Base,24
+McLaren,720S,Performance,108
+McLaren,765LT,Base,20
+McLaren,Convertible,Performance,2
+McLaren,Coupe,Base,9
+McLaren,GT,Base,26
+McLaren,Mustang,AT,1
+McLaren,Mustang,LX 2-Door Sedan,1
+McLaren,P1,Base,7
+McLaren,Roadster,Limited Edition,1
+McLaren,Senna,Base,3
+Mercedes-Benz,190 Series,190d,1
+Mercedes-Benz,200,SEDAN,1
+Mercedes-Benz,300,SEDAN,28
+Mercedes-Benz,300-Class,300CE,4
+Mercedes-Benz,300-Class,300SE,4
+Mercedes-Benz,300sd,Diesel,1
+Mercedes-Benz,350-Class,350SD,1
+Mercedes-Benz,380,SL,8
+Mercedes-Benz,400-Class,400SEL,2
+Mercedes-Benz,420,SEL,3
+Mercedes-Benz,420-Class,420SEL,2
+Mercedes-Benz,500,SL,9
+Mercedes-Benz,500 Series,2dr Coupe 500SEC,1
+Mercedes-Benz,500-Class,500SL,8
+Mercedes-Benz,500e,500E,3
+Mercedes-Benz,560,SL,20
+Mercedes-Benz,560-Class,560SEC,1
+Mercedes-Benz,900,S,1
+Mercedes-Benz,A-Class,A220,866
+Mercedes-Benz,AMG GT,S,123
+Mercedes-Benz,AMG GT 4-Door Coupe,53,146
+Mercedes-Benz,AMG GT Coupe,R,54
+Mercedes-Benz,AMG GT Roadster,Base,80
+Mercedes-Benz,AMG? GT,S,7
+Mercedes-Benz,AMG? GT Roadster,R,1
+Mercedes-Benz,AMGA GT 4-Door Coupe,43,10
+Mercedes-Benz,AMGA GT Coupe,Black Series,4
+Mercedes-Benz,B-Class,B250e,14
+Mercedes-Benz,C-Class,C300,2664
+Mercedes-Benz,C-Class Cabriolet,C300,623
+Mercedes-Benz,C-Class Coupe,C300,443
+Mercedes-Benz,C-Class Sedan,C300,5602
+Mercedes-Benz,CL Class,CL500,12
+Mercedes-Benz,CL-Class,CL550,152
+Mercedes-Benz,CLA,CLA250,2299
+Mercedes-Benz,CLA-Class,CLA250,1424
+Mercedes-Benz,CLK,Base,38
+Mercedes-Benz,CLK-Class,CLK350,195
+Mercedes-Benz,CLS-Class,CLS550,721
+Mercedes-Benz,CT,.3,1
+Mercedes-Benz,CT,SEDAN,1
+Mercedes-Benz,Cabriolet,E320,12
+Mercedes-Benz,Classic,S,1
+Mercedes-Benz,Convertible,SL,15
+Mercedes-Benz,Coupe,500,5
+Mercedes-Benz,E-Class,E300,2844
+Mercedes-Benz,Explorer,Cargo,1
+Mercedes-Benz,G-Class,AMG G63,745
+Mercedes-Benz,GL-Class,GL450,1600
+Mercedes-Benz,GLA,GLA250,624
+Mercedes-Benz,GLA-Class,GLA250,2810
+Mercedes-Benz,GLB,Base,744
+Mercedes-Benz,GLC,GLC300,3569
+Mercedes-Benz,GLC Coupe,GLC300,476
+Mercedes-Benz,GLC-Class,GLC300,2706
+Mercedes-Benz,GLE,GLE350,1553
+Mercedes-Benz,GLE Coupe,GLE 53 AMG,119
+Mercedes-Benz,GLE-Class,GLE350,2461
+Mercedes-Benz,GLE-Class Coupe,GLE43 AMG®,432
+Mercedes-Benz,GLK-Class,GLK350,1399
+Mercedes-Benz,GLS,GLS450,486
+Mercedes-Benz,GLS-Class,GLS450,1770
+Mercedes-Benz,IS,Cargo,1
+Mercedes-Benz,M-Class,ML350,2297
+Mercedes-Benz,Metris Cargo Van,Base,87
+Mercedes-Benz,Metris Passenger Van,Base,294
+Mercedes-Benz,R-Class,R350,161
+Mercedes-Benz,Roadster,SL,9
+Mercedes-Benz,S-Class,S550,3075
+Mercedes-Benz,SL Roadster,SL450,170
+Mercedes-Benz,SL-Class,SL550,599
+Mercedes-Benz,SLC Roadster,SLC300,212
+Mercedes-Benz,SLK,Base,53
+Mercedes-Benz,SLK-Class,SLK250,235
+Mercedes-Benz,SLR McLaren,Base,13
+Mercedes-Benz,SLS AMG,Base,47
+Mercedes-Benz,Sprinter,2500 144-in. WB,4
+Mercedes-Benz,Sprinter Cab Chassis,Base,173
+Mercedes-Benz,Sprinter Cargo Van,Base,813
+Mercedes-Benz,Sprinter Crew Van,Base,188
+Mercedes-Benz,Sprinter Passenger Van,Base,152
+Mercedes-Benz,Sprinter Van,Base,157
+Mercedes-Benz,Sprinter WORKER,WORKER,9
+Mercedes-Benz,Sprinter WORKER Cargo Van,Base,19
+Mercedes-Benz,Sprinter Wagon,Base,33
+Mercedes-Benz,Truck,3,1
+Mercedes-Benz,Turbo,Diesel,1
+Mercedes-Benz,xD,Base,34
+Mercury,California,SEDAN,1
+Mercury,Capri,Base,3
+Mercury,Convertible,Base,1
+Mercury,Cougar,Base,18
+Mercury,GS,SEDAN,2
+Mercury,Grand Marquis,LS,494
+Mercury,Mariner,Premier,161
+Mercury,Milan,Premier,251
+Mercury,Montego,Premier,49
+Mercury,Monterey,Luxury,11
+Mercury,Mountaineer,Premier,119
+Mercury,Mystique,GS,3
+Mercury,Sable,LS,69
+Mercury,Tracer,SEDAN,9
+Mercury,Turbo,Turbo,1
+Mercury,Villager,Base,10
+Mercury,Villager Van,GS,1
+Mitsubishi,3000 GT,Base,6
+Mitsubishi,3000GT,Base,3
+Mitsubishi,360,FE,1
+Mitsubishi,CT,1,2
+Mitsubishi,Coupe,VR-4,2
+Mitsubishi,Defender,ZL1,1
+Mitsubishi,Diamante,LS,12
+Mitsubishi,ES,LE,1
+Mitsubishi,Eclipse,GS,166
+Mitsubishi,Eclipse Cross,ES,741
+Mitsubishi,Eclipse Spyder,GS,55
+Mitsubishi,Endeavor,SE,65
+Mitsubishi,GT,SL,2
+Mitsubishi,Galant,ES,136
+Mitsubishi,Lancer,ES,600
+Mitsubishi,M,3,3
+Mitsubishi,Mirage,ES,767
+Mitsubishi,Mirage G4,ES,936
+Mitsubishi,Montero,LTD,13
+Mitsubishi,Montero,Limited,13
+Mitsubishi,Montero Sport,XLS,18
+Mitsubishi,Outback,2.5i,1
+Mitsubishi,Outlander,ES,1408
+Mitsubishi,Outlander Sport,ES,2555
+Mitsubishi,Raider,LS 2wd,41
+Mitsubishi,Truck,Diesel,9
+Mitsubishi,Turbo,Turbo,2
+Mitsubishi,fuso,FE,1
+Mitsubishi,i-MiEV,ES,20
+Nissan,200 SX,SE,1
+Nissan,300,Anniversary Edition,1
+Nissan,300ZX,Base,5
+Nissan,350Z,Touring,93
+Nissan,350Z Roadster,Touring,145
+Nissan,370Z,Touring,301
+Nissan,370Z Coupe,Touring,332
+Nissan,370Z Roadster,Touring,78
+Nissan,Altima,S,15110
+Nissan,Altima Coupe,S,89
+Nissan,Altima Hybrid,HEV,55
+Nissan,Altima Sedan,S,832
+Nissan,Armada,Platinum,2533
+Nissan,Classic,50th Anniversary,1
+Nissan,Convertible,CONVERTIBLE,1
+Nissan,Convertible,Limited Edition,1
+Nissan,Coupe,HATCHBACK,6
+Nissan,Frontier,SV,6363
+Nissan,GS,GS,5
+Nissan,GT-R,Premium,189
+Nissan,JUKE,S,603
+Nissan,Juke,S,215
+Nissan,Kicks,SV,1822
+Nissan,LEAF,SL,391
+Nissan,Leaf,SV,268
+Nissan,Maxima,SV,2551
+Nissan,Murano,SL,3466
+Nissan,Murano CrossCabriolet,Base,47
+Nissan,NV Cargo,SV,445
+Nissan,NV Passenger,SL,113
+Nissan,NV200,S,422
+Nissan,Pathfinder,SV,3634
+Nissan,Pathfinder Hybrid,SV,11
+Nissan,Quest,S,288
+Nissan,Rogue,SV,14500
+Nissan,Rogue Select,S,969
+Nissan,Rogue Sport,S,3235
+Nissan,Sentra,SV,8619
+Nissan,TT,2+2,1
+Nissan,Titan,SV,3027
+Nissan,Titan XD,SV,545
+Nissan,Truck,XE,15
+Nissan,Turbo,Turbo,7
+Nissan,Versa,S,933
+Nissan,Versa Note,SV,779
+Nissan,Versa Sedan,SV,3772
+Nissan,XE,XE,2
+Nissan,Xterra,S,470
+Nissan,cube,S,163
+Oldsmobile,88,LS,7
+Oldsmobile,Achieva,Coupe,3
+Oldsmobile,Alero,GL1,53
+Oldsmobile,Aurora,Base,15
+Oldsmobile,Bravada,Base,45
+Oldsmobile,Ciera,SEDAN,2
+Oldsmobile,Coupe,Base,1
+Oldsmobile,Coupe,Custom,1
+Oldsmobile,Coupe,Trofeo,1
+Oldsmobile,Custom Cruiser,Base,1
+Oldsmobile,Custom Cruiser,Custom,1
+Oldsmobile,Cutlass,Coupe,5
+Oldsmobile,Cutlass,GLS,5
+Oldsmobile,Cutlass Calais,Base,1
+Oldsmobile,Cutlass Supreme,CONVERTIBLE,8
+Oldsmobile,Intrigue,GX,14
+Oldsmobile,LS,LS,1
+Oldsmobile,LS,SEDAN,1
+Oldsmobile,LSS,Base,1
+Oldsmobile,LSS,LS,1
+Oldsmobile,Lancer,SEDAN,1
+Oldsmobile,Ninety Eight,Regency Brougham,1
+Oldsmobile,Regency,SEDAN,6
+Oldsmobile,Royale,Brougham Sedan,1
+Oldsmobile,Silhouette,GL,24
+Oldsmobile,Toronado,Brougham,1
+Peugeot,505,S,1
+Peugeot,505,S Turbo,1
+Plymouth,Acclaim,Base,1
+Plymouth,Breeze,Base,5
+Plymouth,Caravan,SE,1
+Plymouth,Colt,Base,1
+Plymouth,Coupe,Base,1
+Plymouth,Grand Voyager,SE,10
+Plymouth,Neon,HIGHLINE,13
+Plymouth,Prowler,Base,112
+Plymouth,Voyager,Base,2
+Plymouth,Voyager,SE,2
+Pontiac,300,Trans Am,1
+Pontiac,Aztek,FWD,24
+Pontiac,Bonneville,SE,68
+Pontiac,Convertible,Formula,7
+Pontiac,Coupe,Trans Am,5
+Pontiac,Fiero,GT,4
+Pontiac,Firebird,Trans Am,124
+Pontiac,G3,Base,20
+Pontiac,G5,Base,105
+Pontiac,G6,GT,408
+Pontiac,G8,GT,92
+Pontiac,GT,GT,13
+Pontiac,GTO,Base,192
+Pontiac,Grand Am,SE1,67
+Pontiac,Grand Prix,GP,317
+Pontiac,Montana,Base,73
+Pontiac,Montana SV6,Base,20
+Pontiac,Parisienne,Brougham,1
+Pontiac,Safari,Base,1
+Pontiac,Safari,WAGON,1
+Pontiac,Solstice,Base,393
+Pontiac,Sunbird,LE,1
+Pontiac,Sunbird,SE,1
+Pontiac,Sunfire,Base,23
+Pontiac,Torrent,Base,177
+Pontiac,Trans Am,Coupe,3
+Pontiac,Trans Am,GTA Coupe,3
+Pontiac,Trans Sport,SE,5
+Pontiac,Vibe,Base,297
+Porsche,300,Base,1
+Porsche,500,Special Edition,1
+Porsche,718,Base,456
+Porsche,900,Speed,1
+Porsche,911,Carrera,1146
+Porsche,911 Carrera,911 Carrera,1
+Porsche,918,Spyder,5
+Porsche,924,S,2
+Porsche,928,S,2
+Porsche,944,Base,4
+Porsche,964,964,1
+Porsche,968,Cabriolet,2
+Porsche,968,Coupe,2
+Porsche,Boxster,Base,788
+Porsche,Cabriolet,Carrera,18
+Porsche,Carrera GT,Base,15
+Porsche,Cayenne,Base,1253
+Porsche,Cayenne Coup,Base,37
+Porsche,Cayenne Coup?,Base,1
+Porsche,Cayenne Coupe,Base,10
+Porsche,Cayenne Coupé,Base,33
+Porsche,Cayman,S,287
+Porsche,Convertible,Carrera,17
+Porsche,Coupe,Carrera,17
+Porsche,Macan,Base,1624
+Porsche,Panamera,Base,896
+Porsche,Roadster,5,1
+Porsche,Roadster,Carrera 2 Cabriolet,1
+Porsche,S4,HATCHBACK,2
+Porsche,S4,S4,2
+Porsche,Taycan,4S,185
+Porsche,Tribute,GT2,1
+Porsche,Turbo,Turbo,9
+RAM,5 Series,2,1
+RAM,5500,Laramie,1
+RAM,5500,ST,1
+RAM,Classic,SLT,265
+RAM,Dakota,Big Horn (Lone Star),147
+RAM,Express,4,1
+RAM,Express,Tradesman,1
+RAM,ProMaster Cab Chassis,Base,8
+RAM,ProMaster Cargo Van,Base,2950
+RAM,ProMaster Cutaway,Base,43
+RAM,ProMaster Window Van,Base,38
+RAM,Promaster City,Tradesman,605
+RAM,Ram,Tradesman,1
+RAM,Ram 1500 Classic,Tradesman,1805
+RAM,Ram 1500 Pickup,Big Horn/Lone Star,14105
+RAM,Ram 2500 Pickup,Laramie,4892
+RAM,Ram 3500 Cab Chassis,Laramie,1
+RAM,Ram 3500 Cab Chassis,Tradesman,1
+RAM,Ram 3500 Chassis Cab,Tradesman,527
+RAM,Ram 3500 Pickup,Tradesman,1908
+RAM,Ram 4500 Cab Chassis,Tradesman,1
+RAM,Ram 4500 Chassis Cab,Tradesman,74
+RAM,Ram 5500 Chassis Cab,Tradesman,126
+RAM,Ram Cargo Van,Base,80
+RAM,Ram Pickup,CLASSIC,9
+RAM,Ram Pickup,SSV,9
+RAM,Sierra 2500HD,Crew,1
+RAM,Truck,Tradesman,42
+RAM,Turbo,Tradesman,2
+Rolls-Royce,Convertible,Base,1
+Rolls-Royce,Convertible,II,1
+Rolls-Royce,Corniche,Base,7
+Rolls-Royce,Cullinan,Base,120
+Rolls-Royce,Dawn,Base,124
+Rolls-Royce,Flying Spur,Base,1
+Rolls-Royce,Ghost,Base,260
+Rolls-Royce,Park Ward,Mulliner,1
+Rolls-Royce,Park Ward,SERIES II,1
+Rolls-Royce,Phantom,Base,88
+Rolls-Royce,Silver Seraph,Base,9
+Rolls-Royce,Silver Spirit,Base,1
+Rolls-Royce,Silver Spur,Base,11
+Rolls-Royce,Wraith,Base,130
+Saab,9-2X,Aero,6
+Saab,9-2X,Linear,6
+Saab,9-3,2.0T,132
+Saab,9-3X,SportCombi,3
+Saab,9-4X,Aero,3
+Saab,9-4X,Premium,3
+Saab,9-5,Base,24
+Saab,9-7X,4.2i,37
+Saab,900,S,11
+Saab,900,Turbo,11
+Saab,9000,Aero,2
+Saab,9000,CS,2
+Saab,9000,CSE,2
+Saab,9000,CSE TURBO,2
+Saab,Convertible,S,2
+Saab,Convertible,Turbo,2
+Saturn,Astra,XR,29
+Saturn,Aura,XE,212
+Saturn,ION,2,218
+Saturn,L-Series,L200,35
+Saturn,L300,2,8
+Saturn,Outlook,XR,124
+Saturn,Relay,.3,11
+Saturn,S-Series,Base,54
+Saturn,SC,Base,1
+Saturn,Sky,Roadster,174
+Saturn,VUE,Base,242
+Scion,FR-S,Base,607
+Scion,iA,Base,238
+Scion,iM,Base,223
+Scion,iQ,Base,107
+Scion,tC,Base,1118
+Scion,xA,Base,122
+Scion,xB,Base,820
+Scion,xD,Base,259
+Subaru,900,Speed,1
+Subaru,Ascent,Limited,1787
+Subaru,B9 Tribeca,Limited,22
+Subaru,BRZ,Limited,672
+Subaru,Baja,Sport,50
+Subaru,Coupe,LS,1
+Subaru,Coupe,LSI,1
+Subaru,Coupe,XT,1
+Subaru,Crosstrek,Premium,4324
+Subaru,DL Wagon,AWD,1
+Subaru,Forester,Premium,3589
+Subaru,GL Wagon,4WD,1
+Subaru,GL Wagon,GL,1
+Subaru,GL Wagon,Gl-10 Turbo 4WD,1
+Subaru,GL Wagon,Gl10,1
+Subaru,Impreza,Base,1705
+Subaru,Justy,GL,3
+Subaru,L-Line,GL,1
+Subaru,L-Line,GL AWD,1
+Subaru,Legacy,Premium,1070
+Subaru,Loyale,Base,4
+Subaru,Outback,Limited,5791
+Subaru,SVX,L,2
+Subaru,Tribeca,Limited,107
+Subaru,Turbo,Turbo,1
+Subaru,WRX,Premium,1108
+Subaru,WRX STI,Base,814
+Subaru,XT6,XT6 Turbo 4WD,1
+Subaru,XV Crosstrek,Premium,899
+Suzuki,400,400,1
+Suzuki,500,500,1
+Suzuki,AN400,AN400,1
+Suzuki,Aerio,SX,13
+Suzuki,CT,GSX,1
+Suzuki,Equator,Sport,15
+Suzuki,Esteem,GL,2
+Suzuki,Forenza,Base,35
+Suzuki,Forenza Wagon,Base,3
+Suzuki,Forenza Wagon,S,3
+Suzuki,GSX-R600L1,GSX-R600L1,6
+Suzuki,GSX-R750L1,GSX-R750L1,4
+Suzuki,Grand Vitara,Base,29
+Suzuki,Gsx,GSX,1
+Suzuki,Highlander,LIMITED AWD,1
+Suzuki,Kizashi,SE,21
+Suzuki,Reno,Base,15
+Suzuki,SX4,Base,6
+Suzuki,SX4 Crossover,Base,48
+Suzuki,SX4 Sedan,LE,16
+Suzuki,SX4 Sport,Sport,16
+Suzuki,Sidekick,SPORT JLX,2
+Suzuki,Swift,Base,1
+Suzuki,Truck,Custom,1
+Suzuki,VL1500,VL1500,1
+Suzuki,VL800,VL800,6
+Suzuki,VLR1800,VLR1800,1
+Suzuki,VZ800,VZ800,1
+Suzuki,Verona,LX,3
+Suzuki,Vitara,Base,6
+Suzuki,X-90,Base,1
+Suzuki,XL-7,EX,9
+Suzuki,XL7,Luxury,38
+Tesla,Model 3,Base,3203
+Tesla,Model S,S,600
+Tesla,Model X,75D,243
+Tesla,Model Y,Base,1509
+Tesla,Roadster,Base,5
+Toyota,4Runner,SR5,6226
+Toyota,86,Base,246
+Toyota,Avalon,Limited,1538
+Toyota,C-HR,XLE,1795
+Toyota,Camry,SE,14256
+Toyota,Camry Solara,SE,355
+Toyota,Celica,GT,64
+Toyota,Classic,CLASSIC,2
+Toyota,Convertible,GT,4
+Toyota,Corolla,LE,16294
+Toyota,Corolla Cross,LE,19
+Toyota,Corolla Hatchback,SE,852
+Toyota,Corolla iM,Base,582
+Toyota,Coupe,Base,1
+Toyota,Coupe,Sunroof,1
+Toyota,Coupe,T,1
+Toyota,Coupe,Turbo,1
+Toyota,Cressida,Luxury,2
+Toyota,Echo,Base,41
+Toyota,FJ Cruiser,Base,1661
+Toyota,GR86,Premium,12
+Toyota,Highlander,XLE,9513
+Toyota,Land Cruiser,Base,468
+Toyota,MR2 Spyder,Base,130
+Toyota,Matrix,Base,239
+Toyota,Mirai,Mirai,104
+Toyota,Park Avenue,SEDAN,1
+Toyota,Paseo,1,1
+Toyota,Paseo,Base,1
+Toyota,Paseo,Coupe,1
+Toyota,Pickup,Base,1
+Toyota,Pickup,Deluxe,1
+Toyota,Pickup,SR5 V6,1
+Toyota,Previa,LE,3
+Toyota,Prius,Two,1199
+Toyota,Prius C,LE,4
+Toyota,Prius Plug-In,Base,115
+Toyota,Prius Prime,Premium,304
+Toyota,Prius c,Two,208
+Toyota,Prius v,Three,203
+Toyota,RAV4,XLE,11536
+Toyota,RAV4 Prime,SE,8
+Toyota,Rav4,Base,145
+Toyota,Sequoia,SR5,1077
+Toyota,Sienna,LE,4123
+Toyota,Supra,Premium,410
+Toyota,T100,SR5,14
+Toyota,Tacoma,SR5,7015
+Toyota,Tercel,Coupe,3
+Toyota,Tercel,SEDAN,3
+Toyota,Truck,SR5,5
+Toyota,Tundra,SR5,10495
+Toyota,Venza,Base,608
+Toyota,Yaris,LE,472
+Toyota,Yaris iA,Base,589
+Volkswagen,Arteon,SE,116
+Volkswagen,Atlas,SE w/Tech,1975
+Volkswagen,Atlas Cross Sport,SE w/Tech,420
+Volkswagen,Beetle,2.5,503
+Volkswagen,CC,Sport,567
+Volkswagen,Cabrio,GLS,10
+Volkswagen,Cabriolet,Base,1
+Volkswagen,Convertible,Base,1
+Volkswagen,Coupe,Base,1
+Volkswagen,Eos,Komfort,322
+Volkswagen,Eurovan,MV,30
+Volkswagen,Fox,2-Door,2
+Volkswagen,GLI,Base,7
+Volkswagen,GTI,GTI,278
+Volkswagen,Golf,S,259
+Volkswagen,Golf Alltrack,Alltrack SE,199
+Volkswagen,Golf GTI,S,874
+Volkswagen,Golf R,R,492
+Volkswagen,Golf SportWagen,S,142
+Volkswagen,ID.4,PRO S,119
+Volkswagen,Jetta,S,5709
+Volkswagen,Jetta SportWagen,TDI,375
+Volkswagen,New Beetle,GLS,30
+Volkswagen,New GTI,2.0T FSI,15
+Volkswagen,New Jetta,2.5,26
+Volkswagen,Passat,SE,3211
+Volkswagen,Phaeton,V8,17
+Volkswagen,Quantum,4WD,1
+Volkswagen,R32,R32,58
+Volkswagen,Rabbit,S,108
+Volkswagen,Routan,SE,188
+Volkswagen,Taos,SE,120
+Volkswagen,Tiguan,SE,5090
+Volkswagen,Tiguan Limited,Base,245
+Volkswagen,Touareg,Sport,204
+Volkswagen,Touareg 2,VR6,39
+Volkswagen,Vanagon,VAN,1
+Volkswagen,e-Golf,e-Golf SE,267
+Volvo,240,DL,7
+Volvo,240 Wagon,DL,1
+Volvo,240 Wagon,GL,1
+Volvo,240 Wagon,SE,1
+Volvo,245,GLT,2
+Volvo,500,Speed,1
+Volvo,740,Base,2
+Volvo,740,GLE,2
+Volvo,760,Base,1
+Volvo,760 Wagon,Turbo,1
+Volvo,850,GLT,7
+Volvo,940,Base,1
+Volvo,940,Level I,1
+Volvo,940,Level II,1
+Volvo,940,SE,1
+Volvo,960,Base,1
+Volvo,960,WAGON,1
+Volvo,C30,T5,102
+Volvo,C70,T5,279
+Volvo,Coupe,Turbo,1
+Volvo,GLS,SEDAN,1
+Volvo,New S40,Base,12
+Volvo,S40,2.4i,210
+Volvo,S60,Momentum,943
+Volvo,S70,GLT,11
+Volvo,S80,3.2,125
+Volvo,S90,Momentum,514
+Volvo,Truck,Speed,3
+Volvo,Turbo,Turbo,6
+Volvo,V40,LSE A SR,4
+Volvo,V50,2.4i,53
+Volvo,V60,Premier,102
+Volvo,V60 Cross Country,Base,170
+Volvo,V70,3.2,37
+Volvo,V70 XC,2.4T,23
+Volvo,V90,R-Design,26
+Volvo,V90 Cross Country,Base,200
+Volvo,XC40,Momentum,547
+Volvo,XC60,Momentum,1803
+Volvo,XC70,3.2,152
+Volvo,XC90,Momentum,2411
+smart,Fortwo,Base,2
+smart,fortwo,passion,376

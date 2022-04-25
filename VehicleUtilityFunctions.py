@@ -4,7 +4,7 @@ Created on Thu Apr 21 15:27:39 2022
 
 @author: rafeeshaik
 """
-
+# Import the standard python packages need for the script
 import pandas as pd
 import numpy as np
 import scipy.stats as st
@@ -16,6 +16,7 @@ import matplotlib.pyplot as plt
 import warnings
 warnings.filterwarnings('ignore')
 
+#Features needed for vehile value prediction
 X_cols=['miles', 'year', 'make', 'model', 'trim', 'vehicle_type', 'body_type',
        'drivetrain', 'fuel_type', 'engine_block', 'engine_size',
        'transmission', 'doors', 'cylinders', 'city_mpg', 'highway_mpg',
@@ -41,15 +42,16 @@ def getVehicleDetails(make, model,trim=None, year=None):
     vehicleDetails_col=['vehicle_type', 'body_type', 'drivetrain',
        'fuel_type', 'engine_block', 'engine_size', 'transmission', 'doors',
        'cylinders', 'city_mpg', 'highway_mpg','base_exterior_color','base_interior_color','state']
-    
+    #Impute the trim if Trim is not available in the data
     if trim is None:
         trim=getTrim(make, model)
-   
+   #If Year is not provided by the user then full the most popular vehicle features for the make, model and trim
     if year is None:
         vehicleDetails=vin_lookup_year_df[(vin_lookup_year_df.make==make) &\
                              (vin_lookup_year_df.model==model) &\
                              (vin_lookup_year_df.trim==trim)].groupby(vehicleDetails_col).size().reset_index().sort_values(0, ascending=False).drop(0,axis=1).head(1).to_dict('r')[0]
         
+    #Get the default vechile specs from the specifc model year
     else:
         vehicleDetails=vin_lookup_year_df[(vin_lookup_year_df.year==year) &\
                            (vin_lookup_year_df.make==make) &\
@@ -58,6 +60,7 @@ def getVehicleDetails(make, model,trim=None, year=None):
     if len(vehicleDetails)>0:
         return vehicleDetails
     else:
+        #If we dont have the vehicle details in our lookup table then just populate the record with most popular car in the lookup table
         return vin_lookup_year_df.groupby(vehicleDetails_col).size().reset_index().sort_values(0, ascending=False).drop(0,axis=1).head(1).to_dict('r')[0]
 
 
@@ -70,6 +73,7 @@ def imputeX(single_predict):
     year = single_predict.get('year')
     trim = single_predict.get('trim')
 
+    #if trim is not avialble then impute
     if trim is None:
         trim =getTrim(make, model)
         single_predict['trim']=trim
@@ -84,7 +88,7 @@ def imputeX(single_predict):
         single_predict[col]=default_values.get(col,0)
 
     single_predict_df = pd.DataFrame(columns=single_predict.keys(), data = np.array(list(single_predict.values())).reshape(1, len(single_predict)))
-
+    #Numeric features should be in float datatype
     single_predict_df.miles= pd.to_numeric(single_predict_df.miles, errors='coerce')
     single_predict_df.year= pd.to_numeric(single_predict_df.year, errors='coerce')
     single_predict_df.engine_size= pd.to_numeric(single_predict_df.engine_size, errors='coerce')
@@ -102,24 +106,26 @@ def imputeX(single_predict):
 
 
 # Load the RandomForest Model pipeline
-rf_pipe = joblib.load('oe_rf_depth15_660k.sav')
+rf_pipe = joblib.load('oe_rf_depth20_50Estimators.sav')
 
 def estimateVehileValue(X):
     
+    #Get the actula prediction
     estimated_value = rf_pipe.predict(X)
+    #Get hold of individual components of the pipeline    
     x_treanformed=rf_pipe['preprocessor'].transform(X)
     rf_estimators = rf_pipe['estimator'].estimators_
-
+    # Get the price estimation from individual tree in the RandomForest
     preds=[]
     for estimator in rf_estimators:
         preds.append(estimator.predict(x_treanformed))
         
       
     data = [x[0] for x in preds]
-    
+    data = np.array(data)
+    #Plot a histogram on Jupyter notebook
     fig, ax = plt.subplots(figsize=(10,5))
     sns.histplot(data=data, kde=True, bins=25)
-    
     # 95%, 2 sigma confidence interval(CI)
     ci = st.t.interval(alpha=0.95, df=len(data)-1, loc=np.mean(data), scale=st.sem(data))
     return (estimated_value[0], ci)
