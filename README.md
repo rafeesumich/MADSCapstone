@@ -11,7 +11,7 @@ To reach the goals we had set, we came up with a plan. We wanted to use whatever
 Illustration of proposed pipeline that describes the workflow of our entire project
 ![image](https://user-images.githubusercontent.com/55704682/165000581-9f863646-f24e-464a-89d4-c13076d75fef.png)
 
-## Reproducing the results
+## Reproducing Structured Data Preparation, EDA and Regression Models
 Please download the entire folder as a zip file and uncompress the zip file on your local computer. This project uses Jupyter notebook environment for data preparation, EDA and Machine Learning models.
 ### Step-1: Source Data for the application
 The original source data file for the project is over 20GB, with over 2.7 million vehicles.Due to the limitation on file size we can upload on Github, we included a sample data file with 10000 vehicles. Data sample file name is 'cars_us_used_10k_sample.csv'
