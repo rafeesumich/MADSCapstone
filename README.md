@@ -49,6 +49,7 @@ The “color_model_decoder.py”, “body_model_decoder.py”, and “make_model
 ### Step-1:
 The following command will install the packages according to the configuration file requirements.txt.
 'pip install -r requirements.txt'
+
 Put requirements.txt in the directory where the command will be executed. If it is in another directory, specify its path like path/to/requirements.txt.
 
 ### Step-2:
