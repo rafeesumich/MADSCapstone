@@ -31,5 +31,15 @@ We have created a jupyter notebook .SinglePrediction_RF.ipynb' to test the deplo
 In this notebook one can enter the vehile details in a dictionary format and run the notebook to get the price prediction and 95% Confidence Interval range.
 
 ## Recreating Image Classifiers
-
-
+### Step-1:
+To recreate the CNN models first download images from the csv (cars_us_used_10k_sample.csv) using the “downloader.ipynb”. 
+### Step-2:
+Run the “filter_jpegs.py” on the image directory made from “downloader.ipynb”. This will make sure that all that is left in the directory is jpeg files.
+### Step-3:
+Use the saved model (packaged_exterior_classifier) to filter only acceptable images. This will get rid of all the images that are useless to the rest of the process. 
+### Step-4:
+Use the “create_CNN_dataset.ipynb” with the acceptable images as input to create the datasets for the CNN models. After that, the models can be trained based on their respective dataset. 
+### Step-5:
+Run the “color_classifier.py”,” body_classifier.py”, and “make_classifier.py” scripts with their respective datasets to train each model. 
+### Step-6:
+The “color_model_decoder.py”, “body_model_decoder.py”, and “make_model_decoder.py” can be used to test the model on individual images. Alternatively, we provided saved model that you can test they are: “packaged_color_classifier”, “packaged_body_classifier”, and “packaged_make_classifier”. 
