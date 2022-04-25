@@ -43,3 +43,19 @@ Use the “create_CNN_dataset.ipynb” with the acceptable images as input to cr
 Run the “color_classifier.py”,” body_classifier.py”, and “make_classifier.py” scripts with their respective datasets to train each model. 
 ### Step-6:
 The “color_model_decoder.py”, “body_model_decoder.py”, and “make_model_decoder.py” can be used to test the model on individual images. Alternatively, we provided saved model that you can test they are: “packaged_color_classifier”, “packaged_body_classifier”, and “packaged_make_classifier”. 
+
+## Creating Pipeline and Making Deployment
+
+### Step-1:
+The following command will install the packages according to the configuration file requirements.txt.
+'pip install -r requirements.txt'
+
+Put requirements.txt in the directory where the command will be executed. If it is in another directory, specify its path like path/to/requirements.txt.
+
+### Step-2:
+The following command will install the streamlit
+'pip install streamlit'
+
+### Step-3:
+The following command will run the web interface
+'streamlit run app.py'
